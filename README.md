@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Hacknonumus
+- 👋 Hi, I’m Kaulik Makwana
 - 👀 I like learning new things , hacking, cyber security,python,
-- 📫 How to reach me ...
-- Instagram:- https://www.instagram.com/kaulik_81/
-- Twitter:- https://twitter.com/kaulik81
-- 
+- Currently Learning Cyber Security ,SQl Lang
