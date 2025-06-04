@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Kaulik Makwana
 - I am Aspiring Penetration Tester and learning everyday......
-- 
