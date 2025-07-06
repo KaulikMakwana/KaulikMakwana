@@ -14,21 +14,14 @@
 
 ## 🚀 About Me
 
-🔐 **Cybersecurity Engineer**  
-I work in offensive security, with a primary focus on ethical hacking and securing digital infrastructure through advanced techniques.
-
-**Penetration Tester**  
-My core expertise lies in simulating real-world attacks, identifying vulnerabilities, and assessing the security posture of systems and networks.
-
-I'm passionate about exploring the latest in cybersecurity, learning every day, and sharing knowledge with the community!
-
+I’m just a curious guy diving deep into the world of cybersecurity, with a special focus on red teaming.Along the way, I’ve built hands-on skills in pivoting, lateral movement, privilege escalation, web exploitation, and vulnerability assessments. Still learning and exploring every day.
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, Bash, PowerShell
 - **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Nessus, Kali Linux, and more
-- **Domains:** Network Security, Web Application Security, Red Team Operations
+- **Domains:** Active directory , Web Application Security, Red Team Operations
 
 ---
 
